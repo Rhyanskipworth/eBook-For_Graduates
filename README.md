@@ -2,4 +2,4 @@
 
 Hello!
 
-This "eBook" is meant to be a "Fundamentals Guide" for the students with no prior experience in data science. Many of the resources recommended are free/affordable (as I wanted when I started). Every chapter is succinct and should be treated as a mere guide meant to point you along the path best suited for your own research and projects.
+This "eBook" is meant to be a "Fundamentals Guide" for students with no prior experience in data science, but have the curiousity to learn. Many of the resources recommended are free/affordable. Every chapter is succinct and should be treated as a simple guide, meant to point YOU along the path best suited for YOUR own research and projects.
